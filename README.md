@@ -28,3 +28,17 @@
 ### 5.打包下载
 
 所有打包文件可以在 [Release 页面](https://github.com/buildingdata/Logo/releases)下载。
+
+
+
+------
+
+
+
+**附：XAUAT Logo**
+
+|  彩色  |  白色  |
+| :----------------------------------------------: | :----------------------------------------------: |
+| <img width="150px" src="xauat/xauat.png"> | <img width="150px" src="xauat/xauat-白色.png"> |
+
+<img src="xauat/xauat-文字.png">
