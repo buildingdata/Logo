@@ -17,10 +17,10 @@
 
 ### 2.文字 Logo
 
-|                  LEB                  |                   BEEBD                   |
-| :-----------------------------------: | :---------------------------------------: |
-| <img src="svg/LEB/LEB-蓝色-文字.svg"> | <img src="svg/BEEBD/BEEBD-蓝色-文字.svg"> |
-| <img src="svg/LEB/LEB-绿色-文字.svg"> | <img src="svg/BEEBD/BEEBD-绿色-文字.svg"> |
+|                         LEB                         |                          BEEBD                          |
+| :-------------------------------------------------: | :-----------------------------------------------------: |
+| <img width="350px" src="svg/LEB/LEB-蓝色-文字.svg"> | <img width="350px" src="svg/BEEBD/BEEBD-蓝色-文字.svg"> |
+| <img width="350px" src="svg/LEB/LEB-绿色-文字.svg"> | <img width="350px" src="svg/BEEBD/BEEBD-绿色-文字.svg"> |
 
 建筑节能数字平台的文字部分，使用的是 “方正小标宋简体”，字体文件在 `/font` 目录下。
 
@@ -44,4 +44,4 @@
 | :----------------------------------------------: | :----------------------------------------------: |
 | <img width="150px" src="xauat/xauat.png"> | <img width="150px" src="xauat/xauat-白色.png"> |
 
-<img src="xauat/xauat-文字.png">
+<img width="500px"  src="xauat/xauat-文字.png">
