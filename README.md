@@ -49,5 +49,5 @@
 |  彩色  |  白色  |
 | :----------------------------------------------: | :----------------------------------------------: |
 | <img width="150px" src="xauat/xauat.png"> | <img width="150px" src="xauat/xauat-白色.png"> |
+| <img width="500px"  src="xauat/xauat-文字.png"> | <img width="500px"  src="xauat/sklogb.png"> |
 
-<img width="500px"  src="xauat/xauat-文字.png">
