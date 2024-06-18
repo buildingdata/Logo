@@ -6,27 +6,27 @@
 |                        蓝色透明                         |                        蓝色方形                         |                           蓝色圆角                           |                        蓝色圆形                         |
 | :-----------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------: |
 |   <img width="150px" src="svg/LEB/LEB-蓝色-透明.svg">   |   <img width="150px" src="svg/LEB/LEB-蓝色-方形.svg">   |  <img width="150px" src="svg/LEB/LEB-蓝色-圆角正方形.svg">   |   <img width="150px" src="svg/LEB/LEB-蓝色-圆形.svg">   |
-| <img width="100px" src="svg/BEEBD/BEEBD-蓝色-透明.svg"> | <img width="150px" src="svg/BEEBD/BEEBD-蓝色-方形.svg"> | <img width="150px" src="svg/BEEBD/BEEBD-蓝色-圆角正方形.svg"> | <img width="150px" src="svg/BEEBD/BEEBD-蓝色-圆形.svg"> |
+| <img width="100px" src="svg/BEEFD/BEEFD-蓝色-透明.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-蓝色-方形.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-蓝色-圆角正方形.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-蓝色-圆形.svg"> |
 
 数据团队绿色 Logo 由原版设计改色而来，以节能的绿色为主色调，适用于各类团队图标、开发等场合，例如建筑节能数字小组的图标等。
 
 |                        绿色透明                         |                        绿色方形                         |                           绿色圆角                           |                        绿色圆形                         |
 | :-----------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------: |
 |   <img width="150px" src="svg/LEB/LEB-绿色-透明.svg">   |   <img width="150px" src="svg/LEB/LEB-绿色-方形.svg">   |  <img width="150px" src="svg/LEB/LEB-绿色-圆角正方形.svg">   |   <img width="150px" src="svg/LEB/LEB-绿色-圆形.svg">   |
-| <img width="100px" src="svg/BEEBD/BEEBD-绿色-透明.svg"> | <img width="150px" src="svg/BEEBD/BEEBD-绿色-方形.svg"> | <img width="150px" src="svg/BEEBD/BEEBD-绿色-圆角正方形.svg"> | <img width="150px" src="svg/BEEBD/BEEBD-绿色-圆形.svg"> |
+| <img width="100px" src="svg/BEEFD/BEEFD-绿色-透明.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-绿色-方形.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-绿色-圆角正方形.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-绿色-圆形.svg"> |
 
 ### 2.文字 Logo
 
-|                         LEB                         |                          BEEBD                          |
+|                         LEB                         |                          BEEFD                          |
 | :-------------------------------------------------: | :-----------------------------------------------------: |
-| <img width="350px" src="svg/LEB/LEB-蓝色-文字.svg"> | <img width="350px" src="svg/BEEBD/BEEBD-蓝色-文字.svg"> |
-| <img width="350px" src="svg/LEB/LEB-绿色-文字.svg"> | <img width="350px" src="svg/BEEBD/BEEBD-绿色-文字.svg"> |
+| <img width="350px" src="svg/LEB/LEB-蓝色-文字.svg"> | <img width="350px" src="svg/BEEFD/BEEFD-蓝色-文字.svg"> |
+| <img width="350px" src="svg/LEB/LEB-绿色-文字.svg"> | <img width="350px" src="svg/BEEFD/BEEFD-绿色-文字.svg"> |
 
 为了新平台实现多语言，现更新繁体中文、英文两款文字标识：
 
 |                            繁体                             |                           English                           |
 | :---------------------------------------------------------: | :---------------------------------------------------------: |
-| <img height="80px" src="svg/BEEBD/BEEBD-蓝色-文字繁体.svg"> | <img height="80px" src="svg/BEEBD/BEEBD-蓝色-文字英文.svg"> |
+| <img height="80px" src="svg/BEEFD/BEEFD-蓝色-文字繁体.svg"> | <img height="80px" src="svg/BEEFD/BEEFD-蓝色-文字英文.svg"> |
 
 建筑节能数字平台的文字部分，使用的是 “方正小标宋简体” 与 “方正小标宋繁体”，字体文件在 `/font` 目录下可见。
 
