@@ -15,6 +15,13 @@
 |   <img width="150px" src="svg/LEB/LEB-绿色-透明.svg">   |   <img width="150px" src="svg/LEB/LEB-绿色-方形.svg">   |  <img width="150px" src="svg/LEB/LEB-绿色-圆角正方形.svg">   |   <img width="150px" src="svg/LEB/LEB-绿色-圆形.svg">   |
 | <img width="100px" src="svg/BEEFD/BEEFD-绿色-透明.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-绿色-方形.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-绿色-圆角正方形.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-绿色-圆形.svg"> |
 
+城市碳排放数字孪生AI项目组，采用二氧化碳分子结构式「O=C=O」进行设计。
+
+|                         透明                          |                         文字                          |
+| :---------------------------------------------------: | :---------------------------------------------------: |
+| <img width="150px" src="svg/UCDT/UCDT-蓝色-透明.svg"> | <img width="600px" src="svg/UCDT/UCDT-蓝色-文字.svg"> |
+| <img width="150px" src="svg/UCDT/UCDT-绿色-透明.svg"> |                                                       |
+
 ### 2.文字 Logo
 
 |                         LEB                         |                          BEEFD                          |
