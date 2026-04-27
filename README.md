@@ -1,33 +1,40 @@
 # 零能零碳建筑团队标识
-### 1.Logo
+### 1. 标识
 
-蓝色的图标为原版 Logo，适用于各类正式的场合。例如建筑节能平台的 Icon 和 App 图标，正式汇报文件的 Logo 标识等。
+#### LEB 标识
 
-|                        蓝色透明                         |                        蓝色方形                         |                           蓝色圆角                           |                        蓝色圆形                         |
+LEB 标识不知道是谁设计的，我只是对它进行了矢量化，这个标识主要用于团队的标识，以及建筑节能基础数据平台的 Icon 和 App 图标。
+
+|                        透明                         |                        方形                         |                           圆角                            |                        圆形                         |
+| :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------: |
+| <img width="150px" src="svg/LEB/LEB-蓝色-透明.svg"> | <img width="150px" src="svg/LEB/LEB-蓝色-方形.svg"> | <img width="150px" src="svg/LEB/LEB-蓝色-圆角正方形.svg"> | <img width="150px" src="svg/LEB/LEB-蓝色-圆形.svg"> |
+| <img width="150px" src="svg/LEB/LEB-绿色-透明.svg"> | <img width="150px" src="svg/LEB/LEB-绿色-方形.svg"> | <img width="150px" src="svg/LEB/LEB-绿色-圆角正方形.svg"> | <img width="150px" src="svg/LEB/LEB-绿色-圆形.svg"> |
+
+#### BEEFD 标识
+
+此标识由原版设计改色而来，以节能的绿色为主色调，适用于新数据平台的 Icon 和 App 图标。
+
+|                          透明                           |                          方形                           |                             圆角                             |                          圆形                           |
 | :-----------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------: |
-|   <img width="150px" src="svg/LEB/LEB-蓝色-透明.svg">   |   <img width="150px" src="svg/LEB/LEB-蓝色-方形.svg">   |  <img width="150px" src="svg/LEB/LEB-蓝色-圆角正方形.svg">   |   <img width="150px" src="svg/LEB/LEB-蓝色-圆形.svg">   |
 | <img width="100px" src="svg/BEEFD/BEEFD-蓝色-透明.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-蓝色-方形.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-蓝色-圆角正方形.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-蓝色-圆形.svg"> |
-
-数据团队绿色 Logo 由原版设计改色而来，以节能的绿色为主色调，适用于各类团队图标、开发等场合，例如建筑节能数字小组的图标等。
-
-|                        绿色透明                         |                        绿色方形                         |                           绿色圆角                           |                        绿色圆形                         |
-| :-----------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------: |
-|   <img width="150px" src="svg/LEB/LEB-绿色-透明.svg">   |   <img width="150px" src="svg/LEB/LEB-绿色-方形.svg">   |  <img width="150px" src="svg/LEB/LEB-绿色-圆角正方形.svg">   |   <img width="150px" src="svg/LEB/LEB-绿色-圆形.svg">   |
 | <img width="100px" src="svg/BEEFD/BEEFD-绿色-透明.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-绿色-方形.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-绿色-圆角正方形.svg"> | <img width="150px" src="svg/BEEFD/BEEFD-绿色-圆形.svg"> |
 
-城市碳排放数字孪生AI项目组，采用二氧化碳分子结构式「O=C=O」进行设计。
+#### UCDT 标识
 
-|                         透明                          |                         文字                          |
-| :---------------------------------------------------: | :---------------------------------------------------: |
-| <img width="150px" src="svg/UCDT/UCDT-蓝色-透明.svg"> | <img width="600px" src="svg/UCDT/UCDT-蓝色-文字.svg"> |
-| <img width="150px" src="svg/UCDT/UCDT-绿色-透明.svg"> |                                                       |
+城市碳数字孪生的标识，采用二氧化碳分子结构式「O=C=O」进行设计。主要用于碳排放课题组、数字孪生平台的 Icon 和 App 图标。
+
+|                         蓝色                          |                         红色                          |                         橙色                          |                         绿色                          | 紫色                                                  |
+| :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: | ----------------------------------------------------- |
+| <img width="150px" src="svg/UCDT/UCDT-蓝色-透明.svg"> | <img width="150px" src="svg/UCDT/UCDT-红色-透明.svg"> | <img width="150px" src="svg/UCDT/UCDT-橙色-透明.svg"> | <img width="150px" src="svg/UCDT/UCDT-绿色-透明.svg"> | <img width="150px" src="svg/UCDT/UCDT-紫色-透明.svg"> |
+| <img width="150px" src="svg/UCDT/UCDT-蓝色-圆角.svg"> | <img width="150px" src="svg/UCDT/UCDT-红色-圆角.svg"> | <img width="150px" src="svg/UCDT/UCDT-橙色-圆角.svg"> | <img width="150px" src="svg/UCDT/UCDT-绿色-圆角.svg"> | <img width="150px" src="svg/UCDT/UCDT-紫色-圆角.svg"> |
 
 ### 2.文字 Logo
 
-|                         LEB                         |                          BEEFD                          |
-| :-------------------------------------------------: | :-----------------------------------------------------: |
-| <img width="350px" src="svg/LEB/LEB-蓝色-文字.svg"> | <img width="350px" src="svg/BEEFD/BEEFD-蓝色-文字.svg"> |
-| <img width="350px" src="svg/LEB/LEB-绿色-文字.svg"> | <img width="350px" src="svg/BEEFD/BEEFD-绿色-文字.svg"> |
+|                          LEB                          |                          BEEFD                          |
+| :---------------------------------------------------: | :-----------------------------------------------------: |
+|  <img width="350px" src="svg/LEB/LEB-蓝色-文字.svg">  | <img width="350px" src="svg/BEEFD/BEEFD-蓝色-文字.svg"> |
+|  <img width="350px" src="svg/LEB/LEB-绿色-文字.svg">  | <img width="350px" src="svg/BEEFD/BEEFD-绿色-文字.svg"> |
+| <img width="350px" src="svg/UCDT/UCDT-蓝色-文字.svg"> |                                                         |
 
 为了新平台实现多语言，现更新繁体中文、英文两款文字标识：
 
